@@ -1,6 +1,5 @@
 ## Clarke Square 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarkesquare)](https://github.com/clarkesquare/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=clarkey)](https://solved.ac/clarkey/)
 
 <!--
